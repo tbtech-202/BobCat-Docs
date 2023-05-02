@@ -2,7 +2,7 @@
 description: View your servers information
 ---
 
-# Shop
+# Server
 
 ## Usage
 

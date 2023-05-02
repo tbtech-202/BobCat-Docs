@@ -1,13 +1,13 @@
 ---
-description: View your servers information
+description: View yours or a members information
 ---
 
-# Shop
+# User
 
 ## Usage
 
 ```
-/server
+/user {member}
 ```
 
 ## **Permissions**
@@ -19,7 +19,7 @@ None
 ## **Arguments**
 
 ```
-None
+[member] - A user mention or User ID
 ```
 
 ## Syntax

@@ -1,13 +1,13 @@
 ---
-description: View your servers information
+description: Gives you a random meme
 ---
 
-# Shop
+# Meme
 
 ## Usage
 
 ```
-/server
+/meme
 ```
 
 ## **Permissions**

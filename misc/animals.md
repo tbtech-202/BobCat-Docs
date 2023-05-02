@@ -1,13 +1,9 @@
----
-description: View your servers information
----
-
-# Shop
+# Animals
 
 ## Usage
 
 ```
-/server
+/animal [type]
 ```
 
 ## **Permissions**
@@ -19,7 +15,7 @@ None
 ## **Arguments**
 
 ```
-None
+[type] - A animal of your choice
 ```
 
 ## Syntax

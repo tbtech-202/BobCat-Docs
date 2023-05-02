@@ -1,13 +1,13 @@
 ---
-description: View your servers information
+description: Send an invite link to add BobCat your server
 ---
 
-# Shop
+# Invite
 
 ## Usage
 
 ```
-/server
+/invite
 ```
 
 ## **Permissions**

@@ -1,13 +1,13 @@
 ---
-description: View your servers information
+description: Hugs a member u mentioned
 ---
 
-# Shop
+# Hug
 
 ## Usage
 
 ```
-/server
+/hug [member]
 ```
 
 ## **Permissions**
@@ -19,7 +19,7 @@ None
 ## **Arguments**
 
 ```
-None
+[member] - A user mention or User ID.
 ```
 
 ## Syntax

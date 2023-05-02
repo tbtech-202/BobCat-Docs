@@ -1,13 +1,13 @@
 ---
-description: View your servers information
+description: Sets your afk status
 ---
 
-# Shop
+# AFK
 
 ## Usage
 
 ```
-/server
+/afk {reason}
 ```
 
 ## **Permissions**
@@ -19,7 +19,7 @@ None
 ## **Arguments**
 
 ```
-None
+{reason} - Sets your afk reason
 ```
 
 ## Syntax
