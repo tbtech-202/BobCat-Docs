@@ -1,31 +1,32 @@
+---
+description: Warns a member from the server
+---
+
 # Warn
 
-### **Description**
-
-Warns a member
-
-### Usage
+## Usage
 
 ```
 b!warn [member] {reason}
+/warn [member] {reason}
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Moderate Members` permissions
+Moderate Members
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[member] - A member mention or ID
-{reason} - A reason for the warn
+[member] - A user mention or User ID
+{reason} - A reason for the action
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

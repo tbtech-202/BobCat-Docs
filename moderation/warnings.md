@@ -1,30 +1,31 @@
+---
+description: Shows the warnings of a member
+---
+
 # Warnings
 
-### **Description**
-
-Shows a member warnings
-
-### Usage
+## Usage
 
 ```
-b!warnings [member]
+b!warn [member]
+/warn [member]
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Moderate Members` permissions
+Moderate Members
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[member] - A member mention or ID
+[member] - A user mention or User ID
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

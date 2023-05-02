@@ -1,30 +1,31 @@
+---
+description: Unmute a member in the server
+---
+
 # Unmute
 
-### **Description**
-
-Unmutes a member from the server
-
-### Usage
+## Usage
 
 ```
 b!unmute [member]
+/unmute [member]
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Moderate Members` permissions
+Ban Members 
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[member] - A member mention or User ID
+[member] - A user mention or User ID
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

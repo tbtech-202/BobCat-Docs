@@ -1,31 +1,31 @@
+---
+description: Kicks a member from the server
+---
+
 # Kick
 
-### **Description**
-
-Kicks a member from the server
-
-### Usage
+## Usage
 
 ```
-b!kick [member] {reason}
+b!kick [member]
+/kick [member]
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Kick Members` permissions
+Kick Members
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-{Mention} - A user mention or User ID.
-[Reason] - A reason for kick.
+[member] - A user mention or User ID
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

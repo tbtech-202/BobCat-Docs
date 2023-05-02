@@ -1,30 +1,33 @@
+---
+description: Bans a member from the server
+---
+
 # Ban
 
-### **Description**
-
-Bans the member you mentioned
-
-### Usage
+## Usage
 
 ```
-b!ban [member] {reason} {days}
+b!ban [member] {reason} {delete_message}
+/ban [member] {reason} {delete_message}
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Ban Members` permissions
+Ban Members
 ```
 
-### Arguments
-
-<pre><code>[member] - A member mention or User ID
-{reason} - A reason for action
-<strong>{days} - The number of days to delete the users messages</strong></code></pre>
-
-### Syntax
+## **Arguments**
 
 ```
-[] - Required.
-{} - Optional.
+[member] - A user mention or User ID
+{reason} - A reason for the action
+{delete_message} - How many days you want to delete the users messages
+```
+
+## Syntax
+
+```
+[] - Required
+{} - Optional
 ```

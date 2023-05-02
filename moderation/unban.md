@@ -1,30 +1,27 @@
 # Unban
 
-### **Description**
-
-Unbans a member from the server
-
-### Usage
+## Usage
 
 ```
 b!unban [member]
+/unban [member]
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Ban Member` permissions
+Ban Members
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[member] - A member mention or User ID
+[member] - A user mention or User ID
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

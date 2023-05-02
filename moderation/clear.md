@@ -1,24 +1,31 @@
+---
+description: Clears a certain amount of messages
+---
+
 # Clear
-
-## **Description**
-
-Deletes a number of messages in a channel
 
 ## Usage
 
 ```
 b!clear [amount]
-b!purge [amount]
+/clear [amount]
 ```
 
-## Permissions
+## **Permissions**
 
 ```
-`Manage Messages` permissions
+Manage Messages
 ```
 
-## Arguments
+## **Arguments**
 
 ```
-{amount} - The amount of messages you want to delete
+[amount] - The amount of messages you want to clear
+```
+
+## Syntax
+
+```
+[] - Required
+{} - Optional
 ```

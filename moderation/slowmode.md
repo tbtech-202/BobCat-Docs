@@ -1,31 +1,30 @@
+---
+description: Sets the channels slowmode
+---
+
 # Slowmode
 
-### **Description**
-
-Sets the channels slowmode
-
-### Usage
+## Usage
 
 ```
-b!slowmode [seconds]
+b!slowmode [delay]
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Manage Channels` permissions
+Manage Channels
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[seconds] - time in SECONDS
-            time can be set to off
+[delay] - the number of seconds you want the slowmode
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

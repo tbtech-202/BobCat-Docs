@@ -14,7 +14,19 @@
 
 ## 🛡 Moderation
 
-* [Page](moderation/page.md)
+* [Dashboard](moderation/dashboard.md)
+* [Clear](moderation/clear.md)
+* [Kick](moderation/kick.md)
+* [Ban](moderation/ban.md)
+* [Unban](moderation/unban.md)
+* [Mute](moderation/mute.md)
+* [Unmute](moderation/unmute.md)
+* [Timeout](moderation/timeout.md)
+* [Warn](moderation/warn.md)
+* [Unwarn](moderation/unwarn.md)
+* [Warnings](moderation/warnings.md)
+* [Slowmode](moderation/slowmode.md)
+* [Lockdown](moderation/lockdown.md)
 
 ## 🪙 Economy
 

@@ -1,31 +1,32 @@
+---
+description: Mutes the member in the server
+---
+
 # Mute
 
-### **Description**
-
-Mutes a member from the server
-
-### Usage
+## Usage
 
 ```
 b!mute [member] {reason}
+/mute [member] {reason}
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Moderate Members` permissions
+Ban Members 
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[member] - A member mention or User ID
-{reason} - A reason for action
+[member] - A user mention or User ID
+{reason} - A reason for the action
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

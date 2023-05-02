@@ -1,31 +1,31 @@
+---
+description: Warns a member from the server
+---
+
 # Unwarn
 
-### **Description**
-
-unwarns a member
-
-### Usage
+## Usage
 
 ```
-b!unwarn [member] [case_number]
+b!unwarn [member] {case_id}
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Moderate Members` permissions
+Moderate Members
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[member] - A member mention or ID
-[case_number] - The warn you want to remove
+[member] - A user mention or User ID
+{case_id} - The #<num> is the case id
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```

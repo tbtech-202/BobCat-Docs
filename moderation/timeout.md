@@ -1,34 +1,33 @@
-# Tempmute
+---
+description: Unmute a member in the server
+---
 
-### **Description**
+# Timeout
 
-Temporary mutes a member from the server
-
-This is using the discord timeout system
-
-### Usage
+## Usage
 
 ```
-b!tempmute [member] [time] {reason}
+b!timeout [member] [duration] {reason}
+/timeout [member] [duration] {reason}
 ```
 
-### Permissions
+## **Permissions**
 
 ```
-`Moderate Members` permissions
+Moderate Members
 ```
 
-### Arguments
+## **Arguments**
 
 ```
-[member] - A member mention or User ID
-[time] - Values: 60s, 300s, 600s, 1h, 1d, 1w
-{reason} - A reason for the timeout
+[member] - A user mention or User ID
+{duration} - How long for the timeout
+{reason} - A reason for the action
 ```
 
-### Syntax
+## Syntax
 
 ```
-[] - Required.
-{} - Optional.
+[] - Required
+{} - Optional
 ```
