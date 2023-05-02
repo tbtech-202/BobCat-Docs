@@ -1,13 +1,13 @@
 ---
-description: View your servers information
+description: Withdraw money from your bank
 ---
 
-# Shop
+# Withdraw
 
 ## Usage
 
 ```
-/server
+/economy withdraw {amount}
 ```
 
 ## **Permissions**
@@ -19,7 +19,7 @@ None
 ## **Arguments**
 
 ```
-None
+{amount} - the amount you want
 ```
 
 ## Syntax
