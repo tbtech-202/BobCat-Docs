@@ -4,18 +4,15 @@ description: Clears a certain amount of messages
 
 # Clear
 
-## Usage
+## Command Syntax
 
-```
-b!clear [amount]
-/clear [amount]
-```
+/clear `!amount:`
+
+Note: Any parameter prefixed with ! is **required**, the others are optional.
 
 ## **Permissions**
 
-```
 Manage Messages
-```
 
 ## **Arguments**
 

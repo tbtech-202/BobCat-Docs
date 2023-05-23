@@ -1,21 +1,23 @@
-# BobCat Mod Commands
+# Home
 
-Here you can see all features and commands of BobCat
+## Navigation
 
-## Command Categories.
+We have pages and pages of informations about the various systems and settings, all organized into different categories.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+* The **Commands** category covers all topics regarding BobCat's commands.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## Info
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+{% hint style="info" %}
+<pre><code><strong>[] - Required
+</strong>{} - Optional
+</code></pre>
+{% endhint %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+{% hint style="info" %}
+Mod commands
+
+\[] - Reqired
+
+{} - Optional
+{% endhint %}
