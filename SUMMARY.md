@@ -47,4 +47,5 @@
 ## Help
 
 * [Knowledge base](help/knowledge-base/README.md)
-  * [FAQ & Troubleshooting](help/knowledge-base/faq-and-troubleshooting.md)
+  * [FAQ & Troubleshooting](help/knowledge-base/faq-and-troubleshooting/README.md)
+    * [Getting Started with your Discord Bot](help/knowledge-base/faq-and-troubleshooting/getting-started-with-your-discord-bot.md)
